@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Speedy Eats</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        🍔 Speedy Eats
+        <span>Top Pakistani Restaurants</span>
+    </header>
+
+    <div class="app">
+
+        <!-- RESTAURANT FIELD -->
+        <section class="restaurant-bar" id="restaurants"></section>
+
+        <!-- MAIN CONTENT -->
+        <section class="main">
+
+            <!-- MENU -->
+            <div class="menu-area">
+                <h2 id="restaurantName">Select a Restaurant</h2>
+                <div id="menu" class="menu-grid"></div>
+            </div>
+
+            <!-- ORDER -->
+            <div class="order-area">
+                <h3>Your Order</h3>
+
+                <input id="owner" placeholder="Order Owner Name">
+                <textarea id="note" placeholder="Order Note"></textarea>
+
+                <ul id="orderList"></ul>
+
+                <h4>Total: Rs <span id="total">0</span></h4>
+
+                <button onclick="placeOrder()">Place Order</button>
+                <p id="msg"></p>
+            </div>
+
+        </section>
+
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

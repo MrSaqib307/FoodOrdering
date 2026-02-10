@@ -1,0 +1,232 @@
+[
+  {
+    "customer": "Monxter",
+    "address": "Lahore",
+    "items": [
+      {
+        "id": 1,
+        "name": "Zinger Burger",
+        "price": 450
+      },
+      {
+        "id": 2,
+        "name": "Pizza",
+        "price": 1200
+      },
+      {
+        "id": 3,
+        "name": "Shawarma",
+        "price": 300
+      },
+      {
+        "id": 4,
+        "name": "Fries",
+        "price": 200
+      }
+    ],
+    "total": 2150,
+    "date": "2026-02-10T16:30:02.359Z"
+  },
+  {
+    "customer": "hasan",
+    "address": "Lahore",
+    "items": [
+      {
+        "id": 1,
+        "name": "Zinger Burger",
+        "price": 450
+      },
+      {
+        "id": 2,
+        "name": "Pizza",
+        "price": 1200
+      },
+      {
+        "id": 3,
+        "name": "Shawarma",
+        "price": 300
+      }
+    ],
+    "total": 1950,
+    "date": "2026-02-10T16:33:18.058Z"
+  },
+  {
+    "customerName": "Saqib",
+    "foodName": "Zinger Burger, McChicken, Chicken Biryani, Mutton Karahi, White Karahi",
+    "price": 5500
+  },
+  {
+    "customerName": "Saqib",
+    "foodName": "Zinger Burger, McChicken, Chicken Biryani, Mutton Karahi, White Karahi",
+    "price": 5500
+  },
+  {
+    "customerName": "Saqib",
+    "foodName": "Zinger Burger, McChicken, Chicken Biryani, Mutton Karahi, White Karahi",
+    "price": 5500
+  },
+  {
+    "customerName": "Saqib",
+    "foodName": "Zinger Burger, McChicken, Chicken Biryani, Mutton Karahi, White Karahi",
+    "price": 5500
+  },
+  {
+    "customerName": "Saqib",
+    "foodName": "Zinger Burger, McChicken, Chicken Biryani, Mutton Karahi, White Karahi",
+    "price": 5500
+  },
+  {
+    "customerName": "Saqib",
+    "foodName": "Zinger Burger, McChicken, Chicken Biryani, Mutton Karahi, White Karahi",
+    "price": 5500
+  },
+  {
+    "customerName": "Saqib",
+    "foodName": "Zinger Burger, McChicken, Chicken Biryani, Mutton Karahi, White Karahi",
+    "price": 5500
+  },
+  {
+    "customerName": "Saqib",
+    "foodName": "Zinger Burger, McChicken, Chicken Biryani, Mutton Karahi, White Karahi",
+    "price": 5500
+  },
+  {
+    "customerName": "Saqib",
+    "foodName": "Zinger Burger, McChicken, Chicken Biryani, Mutton Karahi, White Karahi",
+    "price": 5500
+  },
+  {
+    "customerName": "Saqib",
+    "foodName": "Zinger Burger, McChicken, Chicken Biryani, Mutton Karahi, White Karahi",
+    "price": 5500
+  },
+  {
+    "customerName": "Saqib",
+    "foodName": "Zinger Burger, McChicken, Chicken Biryani, Mutton Karahi, White Karahi",
+    "price": 5500
+  },
+  {
+    "customerName": "Saqib",
+    "foodName": "Zinger Burger, McChicken, Chicken Biryani, Mutton Karahi, White Karahi",
+    "price": 5500
+  },
+  {
+    "customerName": "Saqib",
+    "foodName": "Zinger Burger, McChicken, Chicken Biryani, Mutton Karahi, White Karahi",
+    "price": 5500
+  },
+  {
+    "customerName": "Saqib",
+    "foodName": "Zinger Burger, McChicken, Chicken Biryani, Mutton Karahi, White Karahi",
+    "price": 5500
+  },
+  {
+    "customerName": "Saqib",
+    "foodName": "Zinger Burger, McChicken, Chicken Biryani, Mutton Karahi, White Karahi",
+    "price": 5500
+  },
+  {
+    "customerName": "Saqib",
+    "foodName": "Big Mac",
+    "price": 720
+  },
+  {
+    "customerName": "Saqib",
+    "foodName": "Big Mac",
+    "price": 720
+  },
+  {
+    "customerName": "Saqib",
+    "foodName": "Big Mac, Big Mac",
+    "price": 1440
+  },
+  {
+    "customerName": "Saqib",
+    "foodName": "Big Mac, Big Mac",
+    "price": 1440
+  },
+  {
+    "customerName": "Saqib",
+    "foodName": "Big Mac, Big Mac",
+    "price": 1440
+  },
+  {
+    "customerName": "Saqib",
+    "foodName": "Big Mac, Big Mac",
+    "price": 1440
+  },
+  {
+    "customerName": "Saqib",
+    "foodName": "Big Mac, Big Mac",
+    "price": 1440
+  },
+  {
+    "customerName": "Saqib",
+    "foodName": "Big Mac, Big Mac",
+    "price": 1440
+  },
+  {
+    "customerName": "Saqib",
+    "foodName": "Big Mac, Big Mac",
+    "price": 1440
+  },
+  {
+    "customerName": "Saqib",
+    "foodName": "Big Mac, Big Mac",
+    "price": 1440
+  },
+  {
+    "customerName": "Saqib",
+    "foodName": "Big Mac, Big Mac",
+    "price": 1440
+  },
+  {
+    "customerName": "Saqib",
+    "foodName": "Big Mac, Big Mac",
+    "price": 1440
+  },
+  {
+    "restaurant": "Burger Lab",
+    "items": [
+      {
+        "name": "Onion Rings",
+        "price": 300
+      },
+      {
+        "name": "Chicken Tenders",
+        "price": 300
+      },
+      {
+        "name": "Sauce Dip",
+        "price": 300
+      },
+      {
+        "name": "Sauce Dip",
+        "price": 300
+      }
+    ],
+    "total": "1200"
+  },
+  {
+    "restaurant": "McDonald\u0027s Pakistan",
+    "items": [
+      {
+        "name": "Sauce Dip",
+        "price": 300
+      },
+      {
+        "name": "Milkshake",
+        "price": 300
+      },
+      {
+        "name": "Onion Rings",
+        "price": 300
+      },
+      {
+        "name": "McChicken",
+        "price": 300
+      }
+    ],
+    "total": "1200"
+  }
+]
